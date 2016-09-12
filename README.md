@@ -12,3 +12,8 @@ Here is my sample
 ```{javascript}
 printf("hello")
 ```
+
+Version 1.0.0 Features
+
+* Item 1
+* Item 2
