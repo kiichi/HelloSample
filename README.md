@@ -6,8 +6,8 @@ Here is my sample
 * Hello
 * hello
 
-# num 1
-# num 2
+1. num 1
+2. num 2
 
 ```{javascript}
 printf("hello")
